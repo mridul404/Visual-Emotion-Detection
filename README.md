@@ -1,4 +1,5 @@
 # Visual Emotion Detection with PyTorch
+Detecting Emotion like \[Anger, Disgust, Happy, Fear, Surprise, Contempt, Neutral, Sad\] using PyTorch. 
 
 Key Features:
 - PyTorch-based deep learning architecture
